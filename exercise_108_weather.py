@@ -1,21 +1,3 @@
-# Make a weather/clothing game ## project
-# IF statements
-# Ask for user input and depending on the response advise on their attire.
-#
-# prompt user for input
-# Evaluate each input and print the appropriate responses
-# Follow these rules:
-#
-# when sunny >> respond with 'take your shorts!'
-# stormy >> respond with 'take rain coat'
-# rainy >> respond with 'Take your umbrella'
-# rainy and stormy >> 'stay home'
-# anything else respond with 'sorry, i didn't quite catch that'
-# Make it so you keep playing until we say: 'No more Magic'
-
-# weather = input('Whats the weather like? I can give you advice. :)')
-
-#making my program 'on' intially as default
 power = 'ON'
 
 # my game works when my code does not equal the phrase to cancel it.
